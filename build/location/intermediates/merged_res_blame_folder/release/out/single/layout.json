@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\9745fa83389c277909b83b1538bdd510\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\7ea35a8740d43c94eb7b3091d449a791\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\7ea35a8740d43c94eb7b3091d449a791\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\9745fa83389c277909b83b1538bdd510\\media-1.0.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\9745fa83389c277909b83b1538bdd510\\media-1.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\9745fa83389c277909b83b1538bdd510\\media-1.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\9745fa83389c277909b83b1538bdd510\\media-1.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\9745fa83389c277909b83b1538bdd510\\media-1.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\7ea35a8740d43c94eb7b3091d449a791\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\9745fa83389c277909b83b1538bdd510\\media-1.0.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\9745fa83389c277909b83b1538bdd510\\media-1.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\7ea35a8740d43c94eb7b3091d449a791\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\7ea35a8740d43c94eb7b3091d449a791\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\7ea35a8740d43c94eb7b3091d449a791\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\location\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\9745fa83389c277909b83b1538bdd510\\media-1.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    }
+]

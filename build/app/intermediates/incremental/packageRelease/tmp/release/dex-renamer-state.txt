@@ -1,0 +1,4 @@
+#Wed May 25 20:15:56 ICT 2022
+base.0=D\:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

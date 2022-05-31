@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\geocoding\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\7ea35a8740d43c94eb7b3091d449a791\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\geocoding\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\7ea35a8740d43c94eb7b3091d449a791\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\geocoding\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\7ea35a8740d43c94eb7b3091d449a791\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\geocoding\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\7ea35a8740d43c94eb7b3091d449a791\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\geocoding\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\7ea35a8740d43c94eb7b3091d449a791\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Assignment\\Semester 8\\ProjectAkhir\\TravelMaster\\Admin\\travel_admin\\build\\geocoding\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Sland\\.gradle\\caches\\transforms-2\\files-2.1\\7ea35a8740d43c94eb7b3091d449a791\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    }
+]

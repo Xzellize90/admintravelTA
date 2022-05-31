@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/haway/driver/haway_driver/MainActivity.java
+ com.travel_admin.MainActivity
+com/travel_admin/BuildConfig.java
+ com.travel_admin.BuildConfig

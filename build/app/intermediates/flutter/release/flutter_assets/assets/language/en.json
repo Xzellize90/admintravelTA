@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome",
+  "login": "Login",
+  "email": "Email",
+  "phone": "Nomor handphone",
+  "demo_gmail": "demo@gmail.com",
+  "password_did_not_match": "Password does not matched",
+  "mobile_number": "Mobile Number",
+  "number_hint": "+880 1234567890",
+  "password": "Password",
+  "password_hint": "••••••••••"
+}
